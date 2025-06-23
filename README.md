@@ -73,3 +73,4 @@ sales-safari-dashboard/
 
 ## 📁 Output
 
+![Image](https://github.com/user-attachments/assets/b076c7fc-ed1d-4bb7-84f5-a9ab6106b9fe)
